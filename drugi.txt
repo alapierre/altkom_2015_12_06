@@ -3,3 +3,4 @@ bla bla bla
 zadanie drugie
 zadanie drugie prim
 zmiana z mastera
+druga zmiana
