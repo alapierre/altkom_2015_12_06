@@ -1,1 +1,3 @@
 Ala ma kota.
+druga linia
+trzecia linia
