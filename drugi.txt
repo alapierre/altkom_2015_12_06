@@ -5,4 +5,4 @@ zadanie drugie prim
 zmiana z mastera
 zmiana lokalna
 druga zmiana
-
+zmiana któa nie ma byæ komitowana
