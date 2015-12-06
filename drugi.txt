@@ -5,4 +5,4 @@ zadanie drugie prim
 zmiana z mastera
 zmiana lokalna
 druga zmiana
-
+poprawka w zadaniu 4
