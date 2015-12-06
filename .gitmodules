@@ -1,0 +1,3 @@
+[submodule "lodz"]
+	path = lodz
+	url = https://github.com/alapierre/altkom_2014_06_28.git
