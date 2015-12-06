@@ -4,3 +4,5 @@ zadanie drugie
 zadanie drugie prim
 zmiana z mastera
 zmiana lokalna
+druga zmiana
+
